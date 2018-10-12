@@ -1,0 +1,19 @@
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.Interface\obj\Debug\Chinook.DataAccess.Repository.Interface.csprojResolveAssemblyReference.cache
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.Interface\obj\Debug\Chinook.DataAccess.Repository.Interface.csproj.CoreCompileInputs.cache
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.Interface\bin\Debug\Chinook.DataAccess.Repository.Interface.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.Interface\bin\Debug\Chinook.DataAccess.Repository.Interface.pdb
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.Interface\bin\Debug\Chinook.Entity.Base.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.Interface\bin\Debug\Chinook.Entity.Base.pdb
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.Interface\obj\Debug\Chinook.DataAccess.Repository.Interface.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.Interface\obj\Debug\Chinook.DataAccess.Repository.Interface.pdb
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.Interface\bin\Debug\Chinook.Entity.BaseQry.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.Interface\bin\Debug\Chinook.Entity.BaseQry.pdb
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.Interface\bin\Debug\Chinook.DataAccess.Repository.Interface.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.Interface\bin\Debug\Chinook.DataAccess.Repository.Interface.pdb
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.Interface\bin\Debug\Chinook.Entity.Base.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.Interface\bin\Debug\Chinook.Entity.BaseQry.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.Interface\bin\Debug\Chinook.Entity.BaseQry.pdb
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.Interface\bin\Debug\Chinook.Entity.Base.pdb
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.Interface\obj\Debug\Chinook.DataAccess.Repository.Interface.csprojResolveAssemblyReference.cache
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.Interface\obj\Debug\Chinook.DataAccess.Repository.Interface.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.Interface\obj\Debug\Chinook.DataAccess.Repository.Interface.pdb

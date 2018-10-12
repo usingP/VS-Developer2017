@@ -1,0 +1,33 @@
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository\obj\Debug\Chinook.DataAccess.Repository.csprojResolveAssemblyReference.cache
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository\obj\Debug\Chinook.DataAccess.Repository.csproj.CoreCompileInputs.cache
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository\bin\Debug\Chinook.DataAccess.Repository.dll.config
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository\bin\Debug\Chinook.DataAccess.Repository.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository\bin\Debug\Chinook.DataAccess.Repository.pdb
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository\bin\Debug\Chinook.DataAccess.Repository.Interface.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository\bin\Debug\Chinook.Entity.Base.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository\bin\Debug\EntityFramework.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository\bin\Debug\Chinook.DataAccess.Repository.Interface.pdb
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository\bin\Debug\Chinook.Entity.Base.pdb
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository\bin\Debug\EntityFramework.xml
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository\obj\Debug\Chinook.DataAccess.Repository.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository\obj\Debug\Chinook.DataAccess.Repository.pdb
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository\bin\Debug\Chinook.Entity.BaseQry.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository\bin\Debug\Chinook.Entity.BaseQry.pdb
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository\bin\Debug\Chinook.DataAccess.Repository.dll.config
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository\bin\Debug\Chinook.DataAccess.Repository.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository\bin\Debug\Chinook.DataAccess.Repository.pdb
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository\bin\Debug\Chinook.DataAccess.Repository.Interface.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository\bin\Debug\Chinook.Entity.Base.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository\bin\Debug\Chinook.Entity.BaseQry.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository\bin\Debug\EntityFramework.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository\bin\Debug\Chinook.DataAccess.Repository.Interface.pdb
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository\bin\Debug\Chinook.Entity.BaseQry.pdb
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository\bin\Debug\Chinook.Entity.Base.pdb
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository\bin\Debug\EntityFramework.xml
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository\obj\Debug\Chinook.DataAccess.Repository.csprojResolveAssemblyReference.cache
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository\obj\Debug\Chinook.DataAccess.Repository.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository\obj\Debug\Chinook.DataAccess.Repository.pdb

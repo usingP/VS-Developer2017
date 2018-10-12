@@ -1,0 +1,55 @@
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Chinook.DataAccess.Repository.UnitTest.dll.config
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Chinook.DataAccess.Repository.UnitTest.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Chinook.DataAccess.Repository.UnitTest.pdb
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Chinook.DataAccess.Repository.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Chinook.DataAccess.Repository.Interface.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Chinook.Entity.Base.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\EntityFramework.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Chinook.DataAccess.Repository.Interface.pdb
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Chinook.DataAccess.Repository.pdb
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Chinook.DataAccess.Repository.dll.config
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Chinook.Entity.Base.pdb
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\EntityFramework.xml
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\obj\Debug\Chinook.DataAccess.Repository.UnitTest.csprojResolveAssemblyReference.cache
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\obj\Debug\Chinook.DataAccess.Repository.UnitTest.csproj.CoreCompileInputs.cache
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\obj\Debug\Chinook.DataAccess.Repository.UnitTest.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\obj\Debug\Chinook.DataAccess.Repository.UnitTest.pdb
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Chinook.Entity.BaseQry.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Chinook.Entity.BaseQry.pdb
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Chinook.DataAccess.Repository.UnitTest.dll.config
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Chinook.DataAccess.Repository.UnitTest.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Chinook.DataAccess.Repository.UnitTest.pdb
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Chinook.DataAccess.Repository.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Chinook.DataAccess.Repository.Interface.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Chinook.Entity.Base.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Chinook.Entity.BaseQry.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\EntityFramework.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Chinook.DataAccess.Repository.Interface.pdb
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Chinook.DataAccess.Repository.pdb
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Chinook.Entity.BaseQry.pdb
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Chinook.Entity.Base.pdb
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\EntityFramework.xml
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\obj\Debug\Chinook.DataAccess.Repository.UnitTest.csprojResolveAssemblyReference.cache
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\obj\Debug\Chinook.DataAccess.Repository.UnitTest.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.DataAccess.Repository.UnitTest\obj\Debug\Chinook.DataAccess.Repository.UnitTest.pdb

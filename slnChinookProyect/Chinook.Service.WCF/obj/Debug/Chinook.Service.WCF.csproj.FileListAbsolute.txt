@@ -1,0 +1,38 @@
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.Service.WCF\bin\Chinook.Service.WCF.dll.config
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.Service.WCF\bin\Chinook.Service.WCF.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.Service.WCF\bin\Chinook.Service.WCF.pdb
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.Service.WCF\obj\Debug\Chinook.Service.WCF.csprojResolveAssemblyReference.cache
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.Service.WCF\obj\Debug\Chinook.Service.WCF.csproj.CoreCompileInputs.cache
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.Service.WCF\obj\Debug\Chinook.Service.WCF.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.Service.WCF\obj\Debug\Chinook.Service.WCF.pdb
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.Service.WCF\bin\Chinook.DataAccess.Repository.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.Service.WCF\bin\Chinook.DataAccess.Repository.Interface.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.Service.WCF\bin\Chinook.Entity.Base.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.Service.WCF\bin\Chinook.Entity.BaseQry.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.Service.WCF\bin\EntityFramework.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.Service.WCF\bin\EntityFramework.SqlServer.dll
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.Service.WCF\bin\Chinook.DataAccess.Repository.Interface.pdb
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.Service.WCF\bin\Chinook.DataAccess.Repository.pdb
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.Service.WCF\bin\Chinook.DataAccess.Repository.dll.config
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.Service.WCF\bin\Chinook.Entity.BaseQry.pdb
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.Service.WCF\bin\Chinook.Entity.Base.pdb
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.Service.WCF\bin\EntityFramework.xml
+D:\VS2017 Developer\src\slnChinookProyect\Chinook.Service.WCF\bin\EntityFramework.SqlServer.xml
+D:\using.pinedo\src\slnChinookProyect\Chinook.Service.WCF\bin\Chinook.Service.WCF.dll.config
+D:\using.pinedo\src\slnChinookProyect\Chinook.Service.WCF\bin\Chinook.Service.WCF.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.Service.WCF\bin\Chinook.Service.WCF.pdb
+D:\using.pinedo\src\slnChinookProyect\Chinook.Service.WCF\bin\Chinook.DataAccess.Repository.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.Service.WCF\bin\Chinook.DataAccess.Repository.Interface.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.Service.WCF\bin\Chinook.Entity.Base.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.Service.WCF\bin\Chinook.Entity.BaseQry.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.Service.WCF\bin\EntityFramework.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.Service.WCF\bin\EntityFramework.SqlServer.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.Service.WCF\bin\Chinook.DataAccess.Repository.Interface.pdb
+D:\using.pinedo\src\slnChinookProyect\Chinook.Service.WCF\bin\Chinook.DataAccess.Repository.pdb
+D:\using.pinedo\src\slnChinookProyect\Chinook.Service.WCF\bin\Chinook.Entity.BaseQry.pdb
+D:\using.pinedo\src\slnChinookProyect\Chinook.Service.WCF\bin\Chinook.Entity.Base.pdb
+D:\using.pinedo\src\slnChinookProyect\Chinook.Service.WCF\bin\EntityFramework.xml
+D:\using.pinedo\src\slnChinookProyect\Chinook.Service.WCF\bin\EntityFramework.SqlServer.xml
+D:\using.pinedo\src\slnChinookProyect\Chinook.Service.WCF\obj\Debug\Chinook.Service.WCF.csprojResolveAssemblyReference.cache
+D:\using.pinedo\src\slnChinookProyect\Chinook.Service.WCF\obj\Debug\Chinook.Service.WCF.dll
+D:\using.pinedo\src\slnChinookProyect\Chinook.Service.WCF\obj\Debug\Chinook.Service.WCF.pdb
