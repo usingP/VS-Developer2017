@@ -17,6 +17,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chinook.UI.Windows", "Chino
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chinook.Service.WCF", "Chinook.Service.WCF\Chinook.Service.WCF.csproj", "{D20754B0-D9CA-4F60-93F1-85E028F601F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chinook.UI.WebFrom", "Chinook.UI.WebFrom\Chinook.UI.WebFrom.csproj", "{B6D13277-20A4-400B-BB0C-DE3845BA866B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D20754B0-D9CA-4F60-93F1-85E028F601F7} = {D20754B0-D9CA-4F60-93F1-85E028F601F7}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +56,10 @@ Global
 		{D20754B0-D9CA-4F60-93F1-85E028F601F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D20754B0-D9CA-4F60-93F1-85E028F601F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D20754B0-D9CA-4F60-93F1-85E028F601F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D13277-20A4-400B-BB0C-DE3845BA866B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D13277-20A4-400B-BB0C-DE3845BA866B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D13277-20A4-400B-BB0C-DE3845BA866B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D13277-20A4-400B-BB0C-DE3845BA866B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

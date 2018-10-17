@@ -7,3 +7,9 @@ D:\using.pinedo\src\slnChinookProyect\Chinook.Entity.Base\bin\Debug\Chinook.Enti
 D:\using.pinedo\src\slnChinookProyect\Chinook.Entity.Base\bin\Debug\Chinook.Entity.Base.pdb
 D:\using.pinedo\src\slnChinookProyect\Chinook.Entity.Base\obj\Debug\Chinook.Entity.Base.dll
 D:\using.pinedo\src\slnChinookProyect\Chinook.Entity.Base\obj\Debug\Chinook.Entity.Base.pdb
+D:\VS2017 Developer\VS-Developer2017\slnChinookProyect\Chinook.Entity.Base\bin\Debug\Chinook.Entity.Base.dll
+D:\VS2017 Developer\VS-Developer2017\slnChinookProyect\Chinook.Entity.Base\bin\Debug\Chinook.Entity.Base.pdb
+D:\VS2017 Developer\VS-Developer2017\slnChinookProyect\Chinook.Entity.Base\obj\Debug\Chinook.Entity.Base.csprojResolveAssemblyReference.cache
+D:\VS2017 Developer\VS-Developer2017\slnChinookProyect\Chinook.Entity.Base\obj\Debug\Chinook.Entity.Base.csproj.CoreCompileInputs.cache
+D:\VS2017 Developer\VS-Developer2017\slnChinookProyect\Chinook.Entity.Base\obj\Debug\Chinook.Entity.Base.dll
+D:\VS2017 Developer\VS-Developer2017\slnChinookProyect\Chinook.Entity.Base\obj\Debug\Chinook.Entity.Base.pdb

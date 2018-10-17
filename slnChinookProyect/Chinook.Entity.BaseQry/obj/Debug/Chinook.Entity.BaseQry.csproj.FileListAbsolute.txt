@@ -7,3 +7,8 @@ D:\using.pinedo\src\slnChinookProyect\Chinook.Entity.BaseQry\bin\Debug\Chinook.E
 D:\using.pinedo\src\slnChinookProyect\Chinook.Entity.BaseQry\bin\Debug\Chinook.Entity.BaseQry.pdb
 D:\using.pinedo\src\slnChinookProyect\Chinook.Entity.BaseQry\obj\Debug\Chinook.Entity.BaseQry.dll
 D:\using.pinedo\src\slnChinookProyect\Chinook.Entity.BaseQry\obj\Debug\Chinook.Entity.BaseQry.pdb
+D:\VS2017 Developer\VS-Developer2017\slnChinookProyect\Chinook.Entity.BaseQry\bin\Debug\Chinook.Entity.BaseQry.dll
+D:\VS2017 Developer\VS-Developer2017\slnChinookProyect\Chinook.Entity.BaseQry\bin\Debug\Chinook.Entity.BaseQry.pdb
+D:\VS2017 Developer\VS-Developer2017\slnChinookProyect\Chinook.Entity.BaseQry\obj\Debug\Chinook.Entity.BaseQry.csproj.CoreCompileInputs.cache
+D:\VS2017 Developer\VS-Developer2017\slnChinookProyect\Chinook.Entity.BaseQry\obj\Debug\Chinook.Entity.BaseQry.dll
+D:\VS2017 Developer\VS-Developer2017\slnChinookProyect\Chinook.Entity.BaseQry\obj\Debug\Chinook.Entity.BaseQry.pdb
